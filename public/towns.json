@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Bratislava",
+      "temp": "35"
+    },
+    {
+      "id": 2,
+      "name": "Humenné",
+      "temp": "18"
+    },
+    {
+      "id": 3,
+      "name": "Koromľa",
+      "temp": "28"
+    },
+    {
+      "id": 5,
+      "name": "Košice",
+      "temp": "28"
+    },
+    {
+      "id": 6,
+      "name": "Michalovce",
+      "temp": "16"
+    },
+    {
+      "id": 7,
+      "name": "Sobrance",
+      "temp": "16"
+    }
+  ]
